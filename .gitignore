@@ -1,3 +1,5 @@
-**/0_playground/*
-
-**/2_udemy/*
+*
+!**/nucamp
+!**/nucamp/**
+**/nucamp/**/node_modules
+!.gitignore
